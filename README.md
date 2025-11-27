@@ -18,13 +18,17 @@ Please cite the paper:
 
 #### The overprompting phenomenon
 Over-prompting, a phenomenon where excessive examples in prompts lead to diminished performance in Large Language Models (LLMs), challenges the conventional wisdom about in-context few-shot learning. 
-![Flowchart of our LLM prompting framework](Paper_figure_the_fewshot_delimma_overprompting_large_language_models.pdf)
-
+<!-- ![Flowchart of our LLM prompting framework](Paper_figure_the_fewshot_delimma_overprompting_large_language_models.pdf) -->
+<p align="center">
+  <img src="Paper_figure_the_fewshot_delimma_overprompting_large_language_models.pdf" alt="Flowchart of our LLM prompting framework" width="600">
+</p>
 
 #### A few-shot framework to study over-prompting behavior  
 To systematically evaluate and compare the effectiveness of different few-shot selection strategies, we outline a prompting framework based on three standard few-shot selection methods: random sampling, semantic embedding, and TF-IDF vectors.
-![Flowchart of our LLM prompting framework](line_graph_5models_promise_new_weighted.pdf)
-<!-- <img src="https://github.com/user-attachments/assets/d064c31c-144b-4f54-bf1c-01ce523e05e0" alt="Description of the image." width="400"/>   -->
+<!-- ![Flowchart of our LLM prompting framework](line_graph_5models_promise_new_weighted.pdf) -->
+<p align="center">
+  <img src="line_graph_5models_promise_new_weighte.pdf" alt="Flowchart of our LLM prompting framework" width="600">
+</p><!-- <img src="https://github.com/user-attachments/assets/d064c31c-144b-4f54-bf1c-01ce523e05e0" alt="Description of the image." width="400"/>   -->
 
 
 ### requirements: 
